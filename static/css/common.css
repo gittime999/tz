@@ -130,7 +130,8 @@ body {
   cursor: pointer;
   border-radius: 50%;
   flex-shrink: 0;
-  margin-right: 18px;
+  margin-left: 40px;
+  margin-right: 40px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   -webkit-transition: -webkit-transform 500ms ease-in-out;
   transition: -webkit-transform 500ms ease-in-out;
@@ -153,7 +154,7 @@ body {
   white-space: nowrap;
 }
 .footer {
-  padding: 30px 0;
+  padding: 70px 0;
   font-size: 28px;
   line-height: 1.5;
 }
