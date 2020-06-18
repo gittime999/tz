@@ -26,15 +26,15 @@ tucaoUrl:
 menu:
   - title: 流年的求生仓库
     url: /
-  - title: 分类
+  - title: 文章分类
     url: /pages/categories.html
-  - title: 搜索
+  - title: 站内搜索
     url: /pages/search.html
-  - title: 友链
+  - title: 求生导航
     url: /pages/links.html
-  - title: 留言
+  - title: 贴吧交流
     url: /pages/chat.html
-  - title: 关于
+  - title: 关于本站
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
