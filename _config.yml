@@ -1,9 +1,9 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 求生 Blog
-description: 流年的个人博客
-keywords: 求生,Blog,Java,Html,JavaScript
+title: 流年的求生仓库
+description: 流年的求生之路战役仓库
+keywords: 求生,Blog,求生,仓库,流年
 author:
 footerText: 'Copyright © 2020'
 
@@ -24,9 +24,9 @@ tucaoUrl:
 
 # 菜单
 menu:
-  - title: 首页
+  - title: 流年的求生仓库
     url: /
-  - title: 归类
+  - title: 分类
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
