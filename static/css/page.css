@@ -1,78 +1,78 @@
 .list-post > h2 {
-  font-size: 15px;
+  font-size: 30px;
   font-weight: bold;
-  padding: 12px 0;
+  padding: 24px 0;
 }
 .list-post li {
-  padding: 12px 0;
+  padding: 24px 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 .list-post li .date {
-  padding: 0 8px 0 16px;
+  padding: 0 16px 0 32px;
   color: #666666;
-  font-size: 14px;
+  font-size: 28px;
   vertical-align: middle;
 }
 .list-post li .title {
-  font-size: 15px;
-  padding: 3px 0;
+  font-size: 30px;
+  padding: 6px 0;
   vertical-align: middle;
 }
 .list-post li .category {
-  font-size: 12px;
+  font-size: 24px;
   color: #666666;
-  margin-left: 8px;
+  margin-left: 16px;
   vertical-align: middle;
 }
 .list-category h2 {
-  font-size: 15px;
+  font-size: 30px;
   font-weight: bold;
-  padding: 12px 0;
+  padding: 24px 0;
 }
 .list-category div {
-  padding: 8px 0 8px 10px;
+  padding: 16px 0 16px 20px;
 }
 .list-category div a {
-  margin: 4px 6px;
+  margin: 8px 12px;
   white-space: nowrap;
-  font-size: 15px;
+  font-size: 30px;
   display: inline-block;
-  border-bottom: 1px solid #333333;
+  border-bottom: 2px solid #333333;
 }
 .page-search #search-input {
   text-align: center;
-  font-size: 14px;
-  border-bottom: 2px solid #eaeaea;
+  font-size: 28px;
+  border-bottom: 4px solid #eaeaea;
   width: 100%;
   line-height: 1;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 .page-search #search-input::-webkit-input-placeholder {
-  font-size: 14px;
+  font-size: 28px;
   line-height: 1;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 .page-search h1 {
-  padding: 12px 0;
+  padding: 24px 0;
 }
 .page-search h1 span {
-  font-size: 16px;
+  font-size: 32px;
   font-weight: bold;
   vertical-align: middle;
 }
 .page-search h1 img {
   display: inline-block;
-  width: 21px;
-  margin-left: 8px;
+  width: 42px;
+  margin-left: 16px;
   vertical-align: middle;
   opacity: 0;
 }
 .page-search .list-search li {
   list-style: disc;
-  margin-left: 15px;
-  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-bottom: 40px;
 }
 .page-search .list-search a {
   display: block;
@@ -81,17 +81,17 @@
 .page-search .list-search .title {
   display: inline-block;
   word-break: break-all;
-  font-size: 14px;
+  font-size: 28px;
   font-weight: bold;
-  padding-bottom: 1px;
-  border-bottom: 1px solid #999;
+  padding-bottom: 2px;
+  border-bottom: 2px solid #999;
 }
 .page-search .list-search .content {
   display: block;
-  font-size: 14px;
+  font-size: 28px;
   color: #5a5a5a;
   word-break: break-all;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 .page-search .list-search .hint {
   font-size: inherit;
@@ -100,24 +100,24 @@
 }
 @media screen and (max-width: 560px) {
   .list-post > h2 {
-    padding: 10px 0;
+    padding: 20px 0;
   }
   .list-post li {
-    padding: 10px 0;
+    padding: 20px 0;
   }
   .list-post li .date {
-    font-size: 12px;
+    font-size: 24px;
   }
   .list-post li .title {
-    font-size: 13px;
+    font-size: 26px;
   }
   .list-post li .category {
-    font-size: 11px;
+    font-size: 22px;
   }
   .list-category h2 {
-    padding: 10px 0;
+    padding: 20px 0;
   }
   .list-category div a {
-    font-size: 13px;
+    font-size: 26px;
   }
 }
