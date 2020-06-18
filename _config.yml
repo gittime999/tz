@@ -16,7 +16,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: ''
+domainUrl: 'https://gittime999.github.io/tz/'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
@@ -75,4 +75,3 @@ links:
   - title: hongCYu’s Blog
     url: https://hongcyu.cn/
 
-theme: jekyll-theme-cayman
